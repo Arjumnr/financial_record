@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562872662910",
+    "project_id": "financial-record-31935",
+    "storage_bucket": "financial-record-31935.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562872662910:android:ad368efbc794050c81d12f",
+        "android_client_info": {
+          "package_name": "com.example.financial_record"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562872662910-km5lcjd3muj11omd421fc7fjdokfvbvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-qTHbt9Ygq3kR7PlI2-N-bOk06SV74E4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562872662910-km5lcjd3muj11omd421fc7fjdokfvbvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
